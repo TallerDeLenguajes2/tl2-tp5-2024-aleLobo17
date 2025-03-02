@@ -1,0 +1,6 @@
+@tl2_tp5_2024_aleLobo17_HostAddress = http://localhost:5037
+
+GET {{tl2_tp5_2024_aleLobo17_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
